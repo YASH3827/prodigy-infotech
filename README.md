@@ -1,2 +1,2 @@
-# prodigy-infotech
-project 2
+# PROJECT 2
+STOPWATCH
